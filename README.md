@@ -18,9 +18,10 @@
    - config.py and get_tweet.py : streaming search key word to .json file.
    - stream_parkwoojin.json : sample result.
    - Stream_media1.0: extracting media_url (if exists) from. json file and downloading (since even source urls are not accessible to those areas with firewall).
+   - pic_folder: sample pics result from all scripts. As not filtering retweets initially, repetition of images exist.
 
 
 :coffee: Fun fact
 
-1. Initially inspired by [pd48 fans amazing visualization!] (https://github.com/ajyu124/p48ranking), thinking as a kpop fan also to contribute something through coding;
+1. Initially inspired by this pd48 ranking amazing visualization! [pd48 ranking] (https://github.com/ajyu124/p48ranking), thinking as a kpop fan also to contribute something through coding;
 2. Finding an interesting page when searching for markdown cheatsheet for writing README.md [Emoji cheat sheet!](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
