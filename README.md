@@ -20,7 +20,7 @@
    - Stream_media1.0: extracting media_url (if exists) from. json file and downloading (since even source urls are not accessible to those areas with firewall).
 
 
-:coffee: ##### Fun fact:
+:coffee: Fun fact
 
 1. Initially inspired by [pd48 fans amazing visualization!] (https://github.com/ajyu124/p48ranking), thinking as a kpop fan also to contribute something through coding;
 2. Finding an interesting page when searching for markdown cheatsheet for writing README.md [Emoji cheat sheet!](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
