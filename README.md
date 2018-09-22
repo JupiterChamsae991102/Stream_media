@@ -18,7 +18,7 @@
    - config.py and get_tweet.py : streaming search key word to .json file.
    - stream_parkwoojin.json : sample result.
    - Stream_media1.0: extracting media_url (if exists) from. json file and downloading (since even source urls are not accessible to those areas with firewall).
-   - pic_folder: sample pics result from all scripts. As not filtering retweets initially, repetition of images exist.
+   - pic_folder: sample pics result from all scripts. As not filtering retweets initially, repetition of images does exist.
 
 
 :coffee: Fun fact
