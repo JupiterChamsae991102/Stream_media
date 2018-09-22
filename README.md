@@ -23,6 +23,6 @@
 
 :coffee: Fun fact
 
-1. Initially inspired by this pd48 ranking amazing visualization:(visualization)https://ajyu124.github.io/p48ranking/ ;(project) https://github.com/ajyu124/p48ranking
+1. Initially inspired by this pd48 ranking amazing visualization:(visualization) https://ajyu124.github.io/p48ranking/ ; (project)  https://github.com/ajyu124/p48ranking
 ,thinking as a kpop fan also to contribute sth through coding;
 2. Finding an interesting page when searching for markdown cheatsheet for writing README.md [Emoji cheat sheet!](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
