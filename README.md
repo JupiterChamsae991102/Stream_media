@@ -24,5 +24,5 @@
 :coffee: Fun fact
 
 1. Initially inspired by this pd48 ranking amazing visualization![pd48 ranking](https://github.com/ajyu124/p48ranking)
-, thinking as a kpop fan also to contribute sth through coding;
+,thinking as a kpop fan also to contribute sth through coding;
 2. Finding an interesting page when searching for markdown cheatsheet for writing README.md [Emoji cheat sheet!](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
