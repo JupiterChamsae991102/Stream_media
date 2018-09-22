@@ -11,7 +11,7 @@
   - Still to be worked: 
      - Object: Can't run .py file using -q with advanced settings eg. searching for hashtag topics especially with Korean, let alone filtering retweets and irrelevant tweets(selling/purchasing etc.) -> leading to problems of repeated pics.
      - Amount: API limits tweet streaming amounts per user per time window. Need solutions for this part.
-     - Type of media: Only images that are saved in twitter repository link ("""https://pbs.twimg.com/media/...""") have been extracted. gifs(typically accessible through cfile...) and video haven't been extracted in this version.
+     - Type of media: Only images that are saved in twitter repository link (pbs.twimg.com/media/..) have been extracted. gifs(typically accessible through cfile...) and video haven't been extracted in this version.
 
 
 :pushpin: File explanation
@@ -23,5 +23,6 @@
 
 :coffee: Fun fact
 
-1. Initially inspired by this pd48 ranking amazing visualization! [pd48 ranking] (https://github.com/ajyu124/p48ranking), thinking as a kpop fan also to contribute something through coding;
+1. Initially inspired by this pd48 ranking amazing visualization![pd48 ranking](https://github.com/ajyu124/p48ranking)
+, thinking as a kpop fan also to contribute sth through coding;
 2. Finding an interesting page when searching for markdown cheatsheet for writing README.md [Emoji cheat sheet!](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
