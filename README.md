@@ -3,7 +3,7 @@
 
 
 :bird: Clarification
-  - No copyright infringement intended. All rights (media) belong to the respective owners. Project is only intended for providing help for difficult access to twitter to certain fans group.(:star2:Breanking information barrier)
+  - No copyright infringement intended. All rights (media) belong to the respective owners. Project is only intended for providing help for difficult access to twitter to certain fans group.(:star2:Breaking information barrier)
 
 
 :octocat: Statement
